@@ -6,5 +6,3 @@ For data acquisition, a pair of ultrasonic transducers (1-5 MHz) were used as tr
 Two signal processing algorithms: correlation processing, and end point detection have been used for this purpose.
 
 The algorithms were also analysed for noisy environments with pre-filtering by adding AWGN to the input signals.
-
-The results are compiled in report.pdf
